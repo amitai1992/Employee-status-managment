@@ -1,0 +1,23 @@
+.status-div {
+    display: inline-flex;
+    margin-top: 40px;
+}
+
+.my-lable {
+    margin-right: 25px;
+    margin-top: 10px;
+    font-weight: 600;
+    color: #cc9b6d;
+}
+
+select {
+    height: fit-content;
+    margin-top: 10px;
+    width: fit-content !important;
+    color: #cc9b6d !important;
+}
+
+
+option {
+    color: #cc9b6d;
+}

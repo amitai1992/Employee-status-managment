@@ -1,0 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+    min-height: 100%;
+    background: #f6e6cb;
+    
+}
+
+html {
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#root {
+  min-height: 100vh;
+}

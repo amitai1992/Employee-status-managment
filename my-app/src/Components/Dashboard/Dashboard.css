@@ -1,0 +1,12 @@
+.board {
+    width: 100%;
+    text-align: center;
+}
+
+.headLine {
+    margin-top: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #cc9b6d;
+    
+}
+

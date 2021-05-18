@@ -1,0 +1,40 @@
+ 
+ 
+ .my-div {
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+
+.my-form {
+    background-color: aliceblue;
+    width: 40%;
+    height: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+.my-headline {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.my-btn {
+    margin-top: 20px;
+    width: 300px;
+} 
+
+ 
+  .inner {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    
+    
+  }
+
+  label {
+      margin-bottom: 10px;
+      font-weight: bold;
+  }
